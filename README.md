@@ -1,5 +1,3 @@
-# 📰 AI Hindi News Summarizer Bot
-
 <h1 align="center"><b>🤖 AI Hindi News Summarizer Bot</b></h1>
 
 <p align="center">
